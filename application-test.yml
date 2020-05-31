@@ -1,1 +1,4 @@
 
+
+config: 
+  info: "master barnch,springcloud-config/config-test.xm version = 1"
